@@ -1,6 +1,6 @@
 # Dataset
 
-Authorities in Madrid, Spain have been forced to take critical measures in combating the continuous deterioration of air quality in the city. One of such measures is the prohibition of cars in the city center. The dataset, collected over an 18 year period, can be useful to answer critical questions about the causes, effects and possible solutions to air pollution in Madrid and other parts of the world. See more about the data set here.
+Authorities in Madrid, Spain have been forced to take critical measures in combating the continuous deterioration of air quality in the city. One of such measures is the prohibition of cars in the city center. The dataset, collected over an 18 year period, can be useful to answer critical questions about the causes, effects and possible solutions to air pollution in Madrid and other parts of the world. See more about the data set [here](https://www.kaggle.com/decide-soluciones/air-quality-madrid).
  
 # Summary of Findings
 
