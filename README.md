@@ -13,11 +13,11 @@ Authorities in Madrid, Spain have been forced to take critical measures in comba
  - The measurement decreases from January and becomes constant from March or April up unitil August where it increases till September the next year.
 It was observed that CO measurement decreased from 2001 t0 2018 in most of the stations, and was only observed more in stations with low elevation. Example - Mendez Alvaro, Farolillo.
 
- - It was observed that NOx measurent for most stations decreased from 2001, and became constant from 2011 till 2016 for some of the stations, before increasing and dropping again in 2017.So it's generally negative secular trend with random variations in the most of these stations.
+ - It was also observed that NOx measurent for most stations decreased from 2001, and became constant from 2011 till 2016 for some of the stations, before increasing and dropping again in 2017. So it's generally negative secular trend with random variations in the most of these stations.
  
-NOx was also observed at stations with mid to low elevation. Example - Pza. del Carmen, Pza. de España.
+   NOx was also observed at stations with mid to low elevation. Example - Pza. del Carmen, Pza. de España.
 
-# Recommendatios
+# Recommendations
 
  - The government of Madrid should restrict the movement of cars in the urban areas especially during the dry or winter season.
  
